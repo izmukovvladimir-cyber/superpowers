@@ -1,6 +1,6 @@
 # Superpowers Extended for Claude Code
 
-A community-maintained fork of [obra/superpowers](https://github.com/obra/superpowers) specifically for Claude Code users.
+A community-maintained fork of Superpowers specifically for Claude Code users.
 
 ## Why This Fork Exists
 
@@ -60,7 +60,7 @@ This fork integrates Claude Code-native features into the Superpowers workflow.
 
 ```bash
 # Register marketplace
-/plugin marketplace add pcvelz/superpowers
+/plugin marketplace add izmukovvladimir-cyber/superpowers
 
 # Install plugin
 /plugin install superpowers-extended-cc@superpowers-extended-cc-marketplace
@@ -68,7 +68,7 @@ This fork integrates Claude Code-native features into the Superpowers workflow.
 # Recommended: enable auto-update (/plugin → Marketplaces tab)
 ```
 
-Alternatively, install directly from the repository URL: `/plugin install --source url https://github.com/pcvelz/superpowers.git`
+Alternatively, install directly from the repository URL: `/plugin install --source url https://github.com/izmukovvladimir-cyber/superpowers.git`
 
 ### Automatic Setup (recommended)
 
@@ -562,5 +562,5 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-- **Issues**: https://github.com/pcvelz/superpowers/issues
+- **Issues**: https://github.com/izmukovvladimir-cyber/superpowers/issues
 - **Upstream**: https://github.com/obra/superpowers

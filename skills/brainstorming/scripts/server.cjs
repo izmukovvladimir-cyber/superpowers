@@ -245,7 +245,7 @@ function brandMarkup() {
     : 'Superpowers v' + version;
   const logo = '';
 
-  return '<div class="brand"><a href="https://github.com/pcvelz/superpowers">' + logo + '<span class="brand-copy">' + text + '</span></a></div>';
+  return '<div class="brand"><a href="https://github.com/izmukovvladimir-cyber/superpowers">' + logo + '<span class="brand-copy">' + text + '</span></a></div>';
 }
 
 function renderBranding(html) {
