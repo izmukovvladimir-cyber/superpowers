@@ -119,7 +119,7 @@ function assertNoRemoteLogoDefault(html, version = PACKAGE_VERSION) {
   assert(!html.includes('primeradiant.com'), 'default branding must not reference a remote primeradiant.com asset');
   assert(!/<img[^>]*class="brand-logo"/i.test(html), 'default branding must not render a remote logo image');
   assert(
-    html.includes('<a href="https://github.com/pcvelz/superpowers">'),
+    html.includes('<a href="https://github.com/izmukovvladimir-cyber/superpowers">'),
     'default branding should link to the fork repository'
   );
 }
